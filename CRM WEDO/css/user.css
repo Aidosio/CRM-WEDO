@@ -1,0 +1,62 @@
+.line{
+    width: 500px;
+    margin: 20px 0px 10px;
+    height: 2px;
+    background: #5abb7a;
+}
+
+.user-date{
+    margin-bottom: 30px;
+}
+
+.user-img-name{
+    display: flex;
+    height: 150px;
+    align-items: center;
+}
+
+.user-img-name img{
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.user-img{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border-radius: 50px;
+    margin-right: 40px;
+}
+
+.user-name{
+    display: flex;
+    font-size: 18px;
+    margin-top: 40px;
+}
+
+.user-name p{
+    /* color: #222222; */
+    margin-bottom: 10px;
+}
+
+.user-info{
+    width: 500px;
+    display: flex;
+    margin: 20px 0;
+}
+
+.user-text{
+    font-weight: bold;
+    color: #849ff7;
+}
+
+.user-info p{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.user-text-info{
+    margin-left: 100px;
+    
+}
